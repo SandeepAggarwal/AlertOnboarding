@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SAAlertOnboarding.xcodeproj">
+      location = "self:AlertOnboarding.xcodeproj">
    </FileRef>
 </Workspace>
